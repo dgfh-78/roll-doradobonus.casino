@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://roll-doradobonus.casino/sitemap.xml
+Sitemap: http://localhost:54038/sitemap.xml
